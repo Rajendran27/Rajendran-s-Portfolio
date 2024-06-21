@@ -10,10 +10,12 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![image](https://github.com/Rajendran27/Rajendran-s-Portfolio/assets/170707008/1640085a-c1af-4308-a203-ce42781cfe12)
+![image](https://github.com/Rajendran27/Rajendran-s-Portfolio/assets/170707008/de064261-09b1-4b01-a7a6-18af0d188ffa)
 
 
-![image](https://github.com/Rajendran27/Rajendran-s-Portfolio/assets/170707008/9e592be8-3de7-491f-bf3b-1192948eefff)
+
+![image](https://github.com/Rajendran27/Rajendran-s-Portfolio/assets/170707008/980cdca8-a96e-4337-a7d6-17a02660055c)
+
 
 
 
