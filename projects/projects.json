@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  },
+  {
+    "name": "Basic Banking App",
+    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
+    "image": "basicbank",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
+      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
