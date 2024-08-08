@@ -23,7 +23,7 @@
   {
     "name": "Indian Temples",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "tsfbank.png",
+    "image": "tsfbank",
     "category": "basicweb",
     "links": {
       "view": "#",
