@@ -5,9 +5,6 @@
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
     "image": "resumegen",
     "category": "mern",
-    "links": {
-     
-    }
   },
   {
     "name": "Face Recognition Attandance",
