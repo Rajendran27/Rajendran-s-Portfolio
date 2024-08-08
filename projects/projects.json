@@ -1,3 +1,4 @@
+
 [
   {
     "name": "ResumeGen",
@@ -17,16 +18,6 @@
     "links": {
       "view": "#",
       "code": "https://github.com/jigar-sable/Portfolio-Website"
-    }
-  },
-  {
-    "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
-    "category": "android",
-    "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
     }
   },
   {
