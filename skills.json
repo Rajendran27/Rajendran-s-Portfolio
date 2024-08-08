@@ -1,7 +1,75 @@
 [
+{
+    "name": "C",
+    "icon": "https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000"
+  },
+  {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+   },
+ {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+         {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+
+         {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+         {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "Sass",
+        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+    },
+         {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Salesforce",
+        "icon": "https://img.icons8.com/color/48/000000/salesforce.png"
+    },    
+         {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+         {
+        "name": "Android",
+        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+    },
      {
         "name": "GitHub",
-        "icon": "https://img.icons8.com/?size=100&id=40670&format=png&color=000000"
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
-   
+     {
+        "name": "Flutter",
+        "icon": "https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000"
+    },
+     {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"
+    },
+         {
+        "name": "MS Word",
+        "icon": "https://img.icons8.com/?size=100&id=117563&format=png&color=000000"
+    }
 ]
