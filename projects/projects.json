@@ -2,7 +2,7 @@
 [
   {
     "name": "Basic Resume Building",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "desc": "Basic Resume building which will generate customized resume in few minutes on your requirements.",
     "image": "resumegen",
     "category": "mern",
      "links": {
@@ -12,7 +12,7 @@
   },
   {
     "name": "Face Recognition Attandance",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "desc": "A facial recognition attendance system for real-time face detection and recognition, including features like camera integration, face training, attendance logging, and automated email notifications. This system significantly improved attendance accuracy and efficiency, reducing manual effort and errors",
     "image": "newsboxandroid",
     "category": "basicweb",
     "links": {
@@ -22,7 +22,7 @@
   },
    {
     "name": "Automated Pet Feeder",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "desc": "The Automated Pet Feeder is Based on IOT in which we can feed our pet when we were at work via smart phone using wifi module.",
     "image": "composey",
     "category": "basicweb",
     "links": {
@@ -42,7 +42,7 @@
   },
   {
     "name": "BlockSafe Banking",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "desc": "A Blockchain-based banking security system to counter transaction intrusion, Man-in-the-Middle attacks, and money laundering. Implemented a three-step verification protocol, secure UPI ID validation with OTP confirmation, and real-time transaction updates, enhancing security and efficiency in financial transactions.",
     "image": "tsfbank",
     "category": "basicweb",
     "links": {
