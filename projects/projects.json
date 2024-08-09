@@ -3,7 +3,7 @@
   {
     "name": "Basic Resume Building",
     "desc": "Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "image": "./assets/images/projects/resumegen.png",
     "category": "basicweb",
     "links": {
       "view": "#",
