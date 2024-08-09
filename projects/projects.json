@@ -3,7 +3,7 @@
   {
     "name": "Basic Resume Building",
     "desc": "Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "./assets/images/projects/resumegen.png",
+    "image": "#",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -13,7 +13,7 @@
   {
     "name": "Face Recongnition Attandance",
     "desc": "A facial recognition attendance system for real-time face detection and recognition, including features like camera integration, face training, attendance logging, and automated email notifications. This system significantly improved attendance accuracy , reducing manual effort and errors.",
-    "image": "newsboxandroid",
+    "image": "#",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -23,7 +23,7 @@
   {
     "name": "Automated Pet Feeder",
     "desc": "The Automated Pet Feeder is Based on IOT in which we can feed our pet when we were at work via smart phone using wifi module.",
-    "image": "composey",
+    "image": "#",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -43,7 +43,7 @@
   {
     "name": "BlockSafe Banking",
     "desc": "A blockchain-based banking security system to counter transaction intrusion, Man-in-the-Middle attacks, and money laundering. Implemented a three-step verification protocol, secure UPI ID validation with OTP confirmation, and real-time transaction updates, enhancing security and efficiency in financial transactions.",
-    "image": "tsfbank",
+    "image": "#",
     "category": "basicweb",
     "links": {
       "view": "#",
