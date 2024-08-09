@@ -13,6 +13,14 @@
     <!-- Favicon -->
     <link id='favicon' rel="shortcut icon" href="./assets/images/favicon.png" type="image/x-png">
     <title> Portfolio | Rajendran P </title>
+
+
+     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js" > </script>
+            <script type="text/javascript">
+              (function() {
+              emailjs.init("_vfNTs1xsHn2qAP-4");
+              })(); 
+     </script>
 </head>
 <body oncontextmenu="return false">
 
@@ -345,12 +353,37 @@
         </div>
       <div class="button-area">
         <button type="submit">
-          Submit <i class="fa fa-paper-plane"></i></button>
+          Submit <i class="send email"></i></button>
       </div>
     </form>
   </div>
   </div>
 </section>
+
+    <script>
+        function sendemail(){
+
+	var email=document.getElementById("email").value;
+	var from_name=document.getElementById("name").value;
+	var message=document.getElementById("message").value;
+    var message=document.getElementById("Phone").value;
+
+	var templateParams = {
+        email: email,
+        to_name: name,
+		message: message
+      };
+
+      emailjs.send('service_service_ew2eoq9', 'template_etewema', templateParams)
+  .then(function(response) {
+     console.log('SUCCESS!', response.status, response.text);
+     window.alert("Sent successfully!");
+     
+  })
+
+     
+}
+    </script>
 <!-- contact section ends -->
 
 
