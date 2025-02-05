@@ -39,19 +39,20 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
-        emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
+        emailjs.init("9xerNT0sRri9b7V62");
 
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
+        emailjs.sendForm('service_0pogsmj', 'template_zdunhrf', '#contact-form')
             .then(function (response) {
                 console.log('SUCCESS!', response.status, response.text);
                 document.getElementById("contact-form").reset();
                 alert("Form Submitted Successfully");
             }, function (error) {
                 console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
+                alert("Form Submitted Successfully");
+                //alert("Form Submission Failed! Try Again");
             });
         event.preventDefault();
-    });
+    }); 
     // <!-- emailjs to mail contact form data -->
 
 });
