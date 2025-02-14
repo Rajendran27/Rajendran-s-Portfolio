@@ -38,21 +38,23 @@ $(document).ready(function () {
     });
 
     // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
-        emailjs.init("9xerNT0sRri9b7V62");
+   $("#contact-form").submit(function (event) {
+    event.preventDefault();
+    emailjs.init("9xerNT0sRri9b7V62");
 
-        emailjs.sendForm('service_0pogsmj', 'template_zdunhrf', '#contact-form')
-            .then(function (response) {
-                console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
-                alert("Form Submitted Successfully");
-            }, function (error) {
-                console.log('FAILED...', error);
-                alert("Form Submitted Successfully");
-                //alert("Form Submission Failed! Try Again");
-            });
-        event.preventDefault();
-    }); 
+    emailjs.sendForm('service_0pogsmj', 'template_zdunhrf', '#contact-form')
+        .then(function (response) {
+            console.log('SUCCESS!', response.status, response.text);
+            document.getElementById("contact-form").reset();
+
+            // Show the popup message
+            $("#success-popup").fadeIn().delay(3000).fadeOut();
+        }, function (error) {
+            console.log('FAILED...', error);
+            $("#success-popup").fadeIn().delay(3000).fadeOut(); // Can change this to an error popup
+        });
+});
+
     // <!-- emailjs to mail contact form data -->
 
 });
