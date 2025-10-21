@@ -368,6 +368,7 @@ header .navbar ul li a:hover {
   mix-blend-mode: luminosity;
   transition: 0.3s;
   cursor: pointer;
+  mix-blend-mode: normal;
 }
 .about .row .image img:hover {
   mix-blend-mode: normal;
