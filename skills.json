@@ -29,45 +29,21 @@
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
-    },
-    {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
-    },
-         {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+        "name": "Redux React",
+        "icon": "https://img.icons8.com/color/48/000000/redux.png"
     },
     {
         "name": "Salesforce",
         "icon": "https://img.icons8.com/color/48/000000/salesforce.png"
-    },    
-         {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
-    },
-         {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
-    },
+    },      
      {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
-    {
-    "name": "Flutter",
-    "icon": "https://img.icons8.com/color/48/000000/flutter.png"
-  },
-  {
-    "name": "Figma",
-    "icon": "https://img.icons8.com/color/48/000000/figma.png"
-  },
   {
     "name": "MS Word",
     "icon": "https://img.icons8.com/color/48/000000/ms-word.png"
