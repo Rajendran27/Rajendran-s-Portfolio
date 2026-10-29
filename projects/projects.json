@@ -1,8 +1,8 @@
 
 [
   {
-    "name": "Basic Resume Building",
-    "desc": "Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+     "name": "Chess Game",
+     "desc": "An interactive Chess Game built with React.js, featuring legal moves, turn-based gameplay, move history, board flipping, game restart, sound controls, and a responsive user interface."
     "image": "resume",
     "category": "basicweb",
     "links": {
